@@ -1,15 +1,16 @@
 // server/index.js
 import express from 'express';
 import http from 'http';
+import { Server } from 'socket.io';
 import cors from 'cors';
 import helmet from 'helmet';
 import rateLimit from 'express-rate-limit';
 import xss from 'xss-clean';
 import geoip from 'geoip-lite';
 import 'dotenv/config';
-import {Server} from 'socket.io';
 
 import config from './config/config.js';
+import { setupMiddleware } from './middlewares/error.middleware.js';
 import router from './routes/index.js';
 import { securityMiddleware } from './middlewares/security.js';
 import constants from './constants.js';
@@ -18,14 +19,7 @@ const app = express();
 const server = http.createServer(app);
 
 // Security Middleware
-app.use(helmet({
-  contentSecurityPolicy: {
-    directives: {
-      defaultSrc: ["'self'"],
-      connectSrc: ["'self'", "wss://api.dezzy.live"]
-    }
-  }
-})); // Security headers
+app.use(helmet()); // Security headers
 app.use(xss()); // Sanitize input
 app.use(cors({
   origin: config.CORS_ORIGINS,
@@ -53,15 +47,45 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 app.use(router);
 
 // Socket.IO setup with security measures
-
 const io = new Server(server, {
-  path: '/socket.io/',
   cors: {
-    origin: ["https://dezzy.live", "http://localhost:3000"],
-    methods: ["GET", "POST"],
-    credentials: true
+    origin: config.CORS_ORIGINS,
+    methods: ['GET', 'POST'],
+    credentials: true,
+    allowedHeaders: ['Content-Type', 'Authorization']
   },
-  transports: ['websocket']
+  pingTimeout: 60000,
+  pingInterval: 25000,
+  transports: ['websocket', 'polling'],
+  allowUpgrades: true,
+  upgradeTimeout: 10000,
+  maxHttpBufferSize: 1e8 // 100 MB for file sharing if needed
+});
+
+// Add error handling for socket server
+io.engine.on('connection_error', (err) => {
+});
+
+// Middleware to authenticate socket connections
+io.use((socket, next) => {
+  try {
+    // Add basic DOS protection
+    const clientIp = socket.handshake.address;
+    const currentCount = socketRateLimit.get(clientIp)?.count || 0;
+    
+    if (currentCount > RATE_LIMIT_MAX) {
+      return next(new Error('Rate limit exceeded'));
+    }
+    
+    socketRateLimit.set(clientIp, { 
+      count: currentCount + 1,
+      lastReset: Date.now()
+    });
+    
+    next();
+  } catch (error) {
+    next(new Error('Internal server error'));
+  }
 });
 
 // WebRTC configuration
@@ -134,13 +158,11 @@ const startBotMessages = () => {
 };
 
 io.on('connection', (socket) => {
-  console.log(`Client connected: ${socket.id}`);
 
   // Initialize rate limit for this socket
   socketRateLimit.set(socket.id, { count: 0, lastReset: Date.now() });
 
   socket.on('stream:start', () => {
-    console.log(`Admin started streaming: ${socket.id}`);
     streamActive = true;
     socket.join('admin-room');
     socket.to('viewer-room').emit('stream-available', { streamerId: socket.id });
@@ -189,7 +211,6 @@ io.on('connection', (socket) => {
 
   // WebRTC signaling
   socket.on('offer', ({ offer, streamerId }) => {
-    console.log(`Relaying offer from ${socket.id} to ${streamerId}`);
     socket.to(streamerId).emit('offer', {
       offer,
       viewerId: socket.id
@@ -197,12 +218,10 @@ io.on('connection', (socket) => {
   });
 
   socket.on('answer', ({ answer, viewerId }) => {
-    console.log(`Relaying answer from ${socket.id} to ${viewerId}`);
     socket.to(viewerId).emit('answer', { answer });
   });
 
   socket.on('ice-candidate', ({ candidate, targetId }) => {
-    console.log(`Relaying ICE candidate from ${socket.id} to ${targetId}`);
     socket.to(targetId).emit('ice-candidate', { candidate });
   });
 
@@ -234,7 +253,7 @@ io.on('connection', (socket) => {
 
       io.emit('chat:message', sanitizedMessage);
     } catch (error) {
-      console.log('Error handling chat message:', error);
+      logger.error('Error handling chat message:', error);
       socket.emit('error', { message: 'Error processing message' });
     }
   });
@@ -253,7 +272,6 @@ io.on('connection', (socket) => {
   });
 
   socket.on('disconnect', () => {
-    console.log(`Client disconnected: ${socket.id}`);
     activeViewers.delete(socket.id);
     socketRateLimit.delete(socket.id);
     
@@ -274,22 +292,20 @@ io.on('connection', (socket) => {
 
 // Error handling
 process.on('SIGTERM', () => {
-  console.log('SIGTERM signal received. Closing server...');
   if (botInterval) {
     clearInterval(botInterval);
   }
   server.close(() => {
-    console.log('Server closed');
     process.exit(0);
   });
 });
 
 server.on('error', (error) => {
-  console.log('Server error:', error);
+  console.log("ummmm")
 });
 
 // Start server
 const PORT = process.env.PORT || 3001;
 server.listen(PORT, '0.0.0.0', () => {
-  console.log("hellooo..")
+  console.log("hmmm")
 });

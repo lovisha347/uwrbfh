@@ -1,34 +1,49 @@
-// config/config.js
 const config = {
   PORT: process.env.PORT || 3001,
   NODE_ENV: process.env.NODE_ENV || 'development',
-  CORS_ORIGINS: process.env.CORS_ORIGINS ? JSON.parse(process.env.CORS_ORIGINS) : ["https://dezzy.live"],
+  CORS_ORIGINS: process.env.CORS_ORIGINS
+    ? JSON.parse(process.env.CORS_ORIGINS)
+    : ["https://dezzy.live"],
   RATE_LIMIT: {
-    windowMs: parseInt(process.env.RATE_LIMIT_WINDOW_MS) || 15 * 60 * 1000, // 15 minutes
-    max: parseInt(process.env.RATE_LIMIT_MAX) || 100,
+    windowMs: process.env.RATE_LIMIT_WINDOW_MS
+      ? parseInt(process.env.RATE_LIMIT_WINDOW_MS)
+      : 15 * 60 * 1000, // 15 minutes
+    max: process.env.RATE_LIMIT_MAX
+      ? parseInt(process.env.RATE_LIMIT_MAX)
+      : 100,
     message: { error: 'Too many requests, please try again later.' }
   },
   SESSION: {
     secret: process.env.SESSION_SECRET || (process.env.NODE_ENV === 'production' ? undefined : 'dev-secret-key'),
-    cookie: { 
+    cookie: {
       secure: process.env.NODE_ENV === 'production',
-      maxAge: parseInt(process.env.SESSION_MAX_AGE) || 24 * 60 * 60 * 1000, // 24 hours
-      sameSite: 'strict'
+      maxAge: process.env.SESSION_MAX_AGE
+        ? parseInt(process.env.SESSION_MAX_AGE)
+        : 24 * 60 * 60 * 1000, // 24 hours
+      sameSite: 'strict',
     }
   },
   JWT: {
     secret: process.env.JWT_SECRET || (process.env.NODE_ENV === 'production' ? undefined : 'dev-jwt-secret'),
-    expiresIn: process.env.JWT_EXPIRES_IN || '24h'
+    expiresIn: process.env.JWT_EXPIRES_IN || '24h',
   },
   SOCKET: {
-    pingTimeout: parseInt(process.env.SOCKET_PING_TIMEOUT) || 20000,
-    pingInterval: parseInt(process.env.SOCKET_PING_INTERVAL) || 25000,
-    upgradeTimeout: parseInt(process.env.SOCKET_UPGRADE_TIMEOUT) || 10000,
-    maxHttpBufferSize: parseInt(process.env.SOCKET_MAX_HTTP_BUFFER_SIZE) || 1e6 // 1MB
+    pingTimeout: process.env.SOCKET_PING_TIMEOUT
+      ? parseInt(process.env.SOCKET_PING_TIMEOUT)
+      : 20000, // Default to 20 seconds
+    pingInterval: process.env.SOCKET_PING_INTERVAL
+      ? parseInt(process.env.SOCKET_PING_INTERVAL)
+      : 25000, // Default to 25 seconds
+    upgradeTimeout: process.env.SOCKET_UPGRADE_TIMEOUT
+      ? parseInt(process.env.SOCKET_UPGRADE_TIMEOUT)
+      : 10000, // Default to 10 seconds
+    maxHttpBufferSize: process.env.SOCKET_MAX_HTTP_BUFFER_SIZE
+      ? parseInt(process.env.SOCKET_MAX_HTTP_BUFFER_SIZE)
+      : 1e6, // Default to 1MB
   },
   ADMIN: {
     username: process.env.ADMIN_USERNAME || 'admin',
-    password: process.env.ADMIN_PASSWORD || 'admin12345'
+    password: process.env.ADMIN_PASSWORD || 'admin12345',
   }
 };
 
