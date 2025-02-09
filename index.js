@@ -10,8 +10,6 @@ import geoip from 'geoip-lite';
 import 'dotenv/config';
 
 import config from './config/config.js';
-import { setupMiddleware } from './middlewares/error.middleware.js';
-import logger from './utils/logger.js';
 import router from './routes/index.js';
 import { securityMiddleware } from './middlewares/security.js';
 import constants from './constants.js';
