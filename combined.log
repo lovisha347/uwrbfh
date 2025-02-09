@@ -1,0 +1,538 @@
+{"level":"info","message":"Server running in development mode on port 3001","timestamp":"2025-02-05T17:25:22.931Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-05T17:25:22.934Z"}
+{"level":"info","message":"Client connected: Dw75gbLih223Vb0bAAAB","timestamp":"2025-02-05T17:25:25.650Z"}
+{"level":"info","message":"Client connected: sHjuyK11mSpIMoDtAAAD","timestamp":"2025-02-05T17:25:58.533Z"}
+{"level":"info","message":"Stream started by: sHjuyK11mSpIMoDtAAAD","timestamp":"2025-02-05T17:25:58.536Z"}
+{"level":"info","message":"Client connected: wMr5Oo4wh-LvT8XRAAAF","timestamp":"2025-02-05T17:26:04.755Z"}
+{"level":"info","message":"Client disconnected: wMr5Oo4wh-LvT8XRAAAF","timestamp":"2025-02-05T17:26:05.933Z"}
+{"level":"info","message":"Client connected: saDm3f2FmRW2TAivAAAH","timestamp":"2025-02-05T17:26:05.948Z"}
+{"level":"info","message":"Client disconnected: Dw75gbLih223Vb0bAAAB","timestamp":"2025-02-05T17:26:16.291Z"}
+{"level":"info","message":"Client connected: AY4n_NJgCnf_qIY8AAAJ","timestamp":"2025-02-05T17:26:16.688Z"}
+{"level":"info","message":"Client disconnected: AY4n_NJgCnf_qIY8AAAJ","timestamp":"2025-02-05T17:26:16.762Z"}
+{"level":"info","message":"Client disconnected: saDm3f2FmRW2TAivAAAH","timestamp":"2025-02-05T17:26:30.816Z"}
+{"level":"info","message":"Client connected: tswRDO-o2aYs1DnxAAAN","timestamp":"2025-02-05T17:26:32.144Z"}
+{"level":"info","message":"Client disconnected: tswRDO-o2aYs1DnxAAAN","timestamp":"2025-02-05T17:26:33.036Z"}
+{"level":"info","message":"Client connected: rVYfJeYHqeCbP7sDAAAP","timestamp":"2025-02-05T17:26:33.047Z"}
+{"level":"info","message":"Server running on http://localhost:3001","timestamp":"2025-02-05T17:32:17.654Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-05T17:32:17.656Z"}
+{"level":"info","message":"Client connected: D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.873Z"}
+{"level":"info","message":"Admin started streaming: D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.874Z"}
+{"level":"info","message":"Client connected: r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.916Z"}
+{"level":"info","message":"Relaying offer from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.928Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.937Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.939Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.940Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.941Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.942Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.943Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.943Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.944Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.967Z"}
+{"level":"info","message":"Relaying ICE candidate from r0V3utPPKY4ww1F6AAAD to D5ALKCr2z_vSZjYNAAAB","timestamp":"2025-02-05T17:32:17.968Z"}
+{"level":"info","message":"Relaying answer from D5ALKCr2z_vSZjYNAAAB to r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.975Z"}
+{"level":"info","message":"Relaying ICE candidate from D5ALKCr2z_vSZjYNAAAB to r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.977Z"}
+{"level":"info","message":"Relaying ICE candidate from D5ALKCr2z_vSZjYNAAAB to r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.978Z"}
+{"level":"info","message":"Relaying ICE candidate from D5ALKCr2z_vSZjYNAAAB to r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.979Z"}
+{"level":"info","message":"Relaying ICE candidate from D5ALKCr2z_vSZjYNAAAB to r0V3utPPKY4ww1F6AAAD","timestamp":"2025-02-05T17:32:17.980Z"}
+{"level":"info","message":"Client connected: E8QLMY8uzvX7YycmAAAG","timestamp":"2025-02-05T17:35:12.776Z"}
+{"level":"info","message":"Client disconnected: E8QLMY8uzvX7YycmAAAG","timestamp":"2025-02-05T17:35:12.791Z"}
+{"level":"info","message":"Client connected: nD-EmWJwNIAIjdFSAAAI","timestamp":"2025-02-05T17:35:16.792Z"}
+{"level":"info","message":"Client disconnected: nD-EmWJwNIAIjdFSAAAI","timestamp":"2025-02-05T17:35:16.799Z"}
+{"level":"info","message":"Server running on http://localhost:3001","timestamp":"2025-02-05T17:37:05.173Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-05T17:37:05.175Z"}
+{"level":"info","message":"Client connected: CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.591Z"}
+{"level":"info","message":"Client connected: 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.614Z"}
+{"level":"info","message":"Admin started streaming: 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.615Z"}
+{"level":"info","message":"Relaying offer from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.634Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.639Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.640Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.641Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.643Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.645Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.646Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.646Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.647Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.661Z"}
+{"level":"info","message":"Relaying ICE candidate from CZ6l6-x0gAaxWmlHAAAB to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:05.663Z"}
+{"level":"info","message":"Relaying answer from 65YTiZ80Zk9QSdWJAAAD to CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.666Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.668Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.668Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.669Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:05.669Z"}
+{"level":"info","message":"Client connected: yZ6bHj40gSv49CjoAAAF","timestamp":"2025-02-05T17:37:08.296Z"}
+{"level":"info","message":"Client disconnected: yZ6bHj40gSv49CjoAAAF","timestamp":"2025-02-05T17:37:08.305Z"}
+{"level":"info","message":"Client connected: cYLfasJwE3jMIfwOAAAH","timestamp":"2025-02-05T17:37:14.823Z"}
+{"level":"info","message":"Client disconnected: cYLfasJwE3jMIfwOAAAH","timestamp":"2025-02-05T17:37:14.831Z"}
+{"level":"info","message":"Client disconnected: CZ6l6-x0gAaxWmlHAAAB","timestamp":"2025-02-05T17:37:19.050Z"}
+{"level":"info","message":"Client connected: 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.719Z"}
+{"level":"info","message":"Relaying offer from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.739Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.754Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.755Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.758Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.767Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.770Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.771Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.772Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.772Z"}
+{"level":"info","message":"Relaying answer from 65YTiZ80Zk9QSdWJAAAD to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.785Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.786Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.788Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.788Z"}
+{"level":"info","message":"Relaying ICE candidate from 65YTiZ80Zk9QSdWJAAAD to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:20.789Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.790Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:20.812Z"}
+{"level":"info","message":"Client disconnected: 65YTiZ80Zk9QSdWJAAAD","timestamp":"2025-02-05T17:37:23.624Z"}
+{"level":"info","message":"Client connected: AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.277Z"}
+{"level":"info","message":"Admin started streaming: AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.278Z"}
+{"level":"info","message":"Relaying offer from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.303Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.314Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.318Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.320Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.322Z"}
+{"level":"info","message":"Relaying answer from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.327Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.329Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.335Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.335Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.336Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.337Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.338Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.339Z"}
+{"level":"info","message":"Relaying ICE candidate from 9dfQKlKovWT1J52KAAAJ to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:31.339Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:31.355Z"}
+{"level":"info","message":"Client disconnected: 9dfQKlKovWT1J52KAAAJ","timestamp":"2025-02-05T17:37:42.947Z"}
+{"level":"info","message":"Client connected: SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.263Z"}
+{"level":"info","message":"Relaying offer from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.292Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.294Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.295Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.295Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.297Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.299Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.300Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.300Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.301Z"}
+{"level":"info","message":"Relaying answer from AAKJPbV_xcLeCWcfAAAL to SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.319Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.321Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.322Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.324Z"}
+{"level":"info","message":"Relaying ICE candidate from AAKJPbV_xcLeCWcfAAAL to SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:43.324Z"}
+{"level":"info","message":"Relaying ICE candidate from SWwNN3SjE-68ji8qAAAN to AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:43.363Z"}
+{"level":"info","message":"Client disconnected: AAKJPbV_xcLeCWcfAAAL","timestamp":"2025-02-05T17:37:59.217Z"}
+{"level":"info","message":"Client disconnected: SWwNN3SjE-68ji8qAAAN","timestamp":"2025-02-05T17:37:59.632Z"}
+{"level":"info","message":"Server running on http://localhost:3001","timestamp":"2025-02-06T04:12:01.608Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-06T04:12:01.610Z"}
+{"level":"info","message":"Client connected: OT9H3IJLTlPuLSI9AAAC","timestamp":"2025-02-06T04:12:37.839Z"}
+{"level":"info","message":"Client disconnected: OT9H3IJLTlPuLSI9AAAC","timestamp":"2025-02-06T04:12:37.842Z"}
+{"level":"info","message":"Client connected: Sjzkd_x2iB3imgsxAAAE","timestamp":"2025-02-06T04:15:12.872Z"}
+{"level":"info","message":"Client disconnected: Sjzkd_x2iB3imgsxAAAE","timestamp":"2025-02-06T04:15:12.914Z"}
+{"level":"info","message":"Client connected: lNAQ_ez-xr9tIrOrAAAH","timestamp":"2025-02-06T04:15:24.422Z"}
+{"level":"info","message":"Client disconnected: lNAQ_ez-xr9tIrOrAAAH","timestamp":"2025-02-06T04:15:24.433Z"}
+{"level":"info","message":"Client connected: 3xzAdMRQ5NjRPvc6AAAJ","timestamp":"2025-02-06T04:15:31.035Z"}
+{"level":"info","message":"Client disconnected: 3xzAdMRQ5NjRPvc6AAAJ","timestamp":"2025-02-06T04:15:31.037Z"}
+{"level":"info","message":"Client connected: nzBaEoo5vclToVeUAAAN","timestamp":"2025-02-06T04:15:59.864Z"}
+{"level":"info","message":"Client disconnected: nzBaEoo5vclToVeUAAAN","timestamp":"2025-02-06T04:15:59.875Z"}
+{"level":"info","message":"Client connected: 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:07.452Z"}
+{"level":"info","message":"Admin started streaming: 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:07.454Z"}
+{"level":"info","message":"Client connected: VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.397Z"}
+{"level":"info","message":"Relaying offer from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.414Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.429Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.432Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.433Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.433Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.434Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.434Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.435Z"}
+{"level":"info","message":"Relaying ICE candidate from VLgiCMb7TNq4q5krAAAR to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:16:09.435Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.437Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.437Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.441Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.442Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:16:09.443Z"}
+{"level":"info","message":"Client connected: rj8fN0-Tu6fm5ZrZAAAV","timestamp":"2025-02-06T04:16:47.665Z"}
+{"level":"info","message":"Client disconnected: rj8fN0-Tu6fm5ZrZAAAV","timestamp":"2025-02-06T04:16:47.689Z"}
+{"level":"info","message":"Client connected: jeqd6nbKNgv-A4L2AAAZ","timestamp":"2025-02-06T04:17:28.864Z"}
+{"level":"info","message":"Client disconnected: jeqd6nbKNgv-A4L2AAAZ","timestamp":"2025-02-06T04:17:28.876Z"}
+{"level":"info","message":"Client connected: GJCDtQQ70TXSMWbBAAAb","timestamp":"2025-02-06T04:17:39.849Z"}
+{"level":"info","message":"Client connected: 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.464Z"}
+{"level":"info","message":"Relaying offer from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.573Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.586Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.587Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.588Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.588Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.589Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.590Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.591Z"}
+{"level":"info","message":"Relaying ICE candidate from 6u9I0lw8TPvBt4NNAAAd to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:17:55.591Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.593Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.597Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.598Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.599Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:17:55.599Z"}
+{"level":"info","message":"Client disconnected: GJCDtQQ70TXSMWbBAAAb","timestamp":"2025-02-06T04:21:48.472Z"}
+{"level":"info","message":"Client connected: lOsFGbVTMbxQI15YAAAf","timestamp":"2025-02-06T04:21:48.822Z"}
+{"level":"info","message":"Client disconnected: 6u9I0lw8TPvBt4NNAAAd","timestamp":"2025-02-06T04:23:27.229Z"}
+{"level":"info","message":"Client disconnected: lOsFGbVTMbxQI15YAAAf","timestamp":"2025-02-06T04:23:27.235Z"}
+{"level":"info","message":"Client connected: Y5dtxLWUZELdeUQxAAAh","timestamp":"2025-02-06T04:23:27.794Z"}
+{"level":"info","message":"Client connected: ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.496Z"}
+{"level":"info","message":"Relaying offer from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.533Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.544Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.545Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.546Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.546Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.547Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.547Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.548Z"}
+{"level":"info","message":"Relaying ICE candidate from ufB899WEGF3hlVCjAAAj to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:23:29.548Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.551Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.551Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.551Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.552Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:23:29.553Z"}
+{"level":"info","message":"Client disconnected: Y5dtxLWUZELdeUQxAAAh","timestamp":"2025-02-06T04:28:32.428Z"}
+{"level":"info","message":"Client disconnected: ufB899WEGF3hlVCjAAAj","timestamp":"2025-02-06T04:28:32.430Z"}
+{"level":"info","message":"Client connected: 3EboKjJfCasGdr9-AAAl","timestamp":"2025-02-06T04:28:32.768Z"}
+{"level":"info","message":"Client connected: LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.253Z"}
+{"level":"info","message":"Relaying offer from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.294Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.339Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.340Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.341Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.342Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.342Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.343Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.344Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.345Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.358Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.360Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.361Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.362Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:35:47.362Z"}
+{"level":"info","message":"Relaying ICE candidate from LjO03-tIqMLYi_ypAAAn to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:35:47.368Z"}
+{"level":"info","message":"Client disconnected: 3EboKjJfCasGdr9-AAAl","timestamp":"2025-02-06T04:36:04.123Z"}
+{"level":"info","message":"Client disconnected: LjO03-tIqMLYi_ypAAAn","timestamp":"2025-02-06T04:36:04.125Z"}
+{"level":"info","message":"Client connected: gELuyS7aqrOIl5A_AAAp","timestamp":"2025-02-06T04:36:04.658Z"}
+{"level":"info","message":"Client connected: zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.493Z"}
+{"level":"info","message":"Relaying offer from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.536Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.554Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.556Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.556Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.557Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.557Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.557Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.558Z"}
+{"level":"info","message":"Relaying ICE candidate from zWyzfCzB3Y-uhyu8AAAr to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:36:10.558Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.560Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.561Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.562Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.563Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:36:10.563Z"}
+{"level":"info","message":"Client disconnected: gELuyS7aqrOIl5A_AAAp","timestamp":"2025-02-06T04:38:08.548Z"}
+{"level":"info","message":"Client disconnected: zWyzfCzB3Y-uhyu8AAAr","timestamp":"2025-02-06T04:38:08.552Z"}
+{"level":"info","message":"Client connected: gQUwZpsTmFIBgS5NAAAt","timestamp":"2025-02-06T04:38:09.001Z"}
+{"level":"info","message":"Client disconnected: gQUwZpsTmFIBgS5NAAAt","timestamp":"2025-02-06T04:38:27.203Z"}
+{"level":"info","message":"Client connected: yLmP06sVfN4G9ZZqAAAw","timestamp":"2025-02-06T04:38:28.071Z"}
+{"level":"info","message":"Client connected: -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.892Z"}
+{"level":"info","message":"Relaying offer from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.957Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.969Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.971Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.972Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.972Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.973Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.973Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.973Z"}
+{"level":"info","message":"Relaying ICE candidate from -XGDHoBIivEJQ7zyAAAy to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:38:30.974Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.988Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.992Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.993Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.993Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:38:30.993Z"}
+{"level":"info","message":"Client disconnected: yLmP06sVfN4G9ZZqAAAw","timestamp":"2025-02-06T04:41:18.819Z"}
+{"level":"info","message":"Client disconnected: -XGDHoBIivEJQ7zyAAAy","timestamp":"2025-02-06T04:41:18.826Z"}
+{"level":"info","message":"Client connected: K7LBXsI-fwz2TqO3AAA0","timestamp":"2025-02-06T04:41:19.235Z"}
+{"level":"info","message":"Client disconnected: K7LBXsI-fwz2TqO3AAA0","timestamp":"2025-02-06T04:41:30.321Z"}
+{"level":"info","message":"Client connected: m9m_7Fx_-VfGseRiAAA2","timestamp":"2025-02-06T04:41:30.646Z"}
+{"level":"info","message":"Client disconnected: m9m_7Fx_-VfGseRiAAA2","timestamp":"2025-02-06T04:41:45.658Z"}
+{"level":"info","message":"Client connected: 2OpD_bYrVWOeqcxFAAA4","timestamp":"2025-02-06T04:41:46.340Z"}
+{"level":"info","message":"Client connected: MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.271Z"}
+{"level":"info","message":"Relaying offer from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.358Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.359Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.359Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.360Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.360Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.360Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.360Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.361Z"}
+{"level":"info","message":"Relaying ICE candidate from MYBxtIsTt6TFWZywAAA6 to 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:48:30.361Z"}
+{"level":"info","message":"Relaying answer from 56FSQsqrMnoQT-EuAAAP to MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.368Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.369Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.370Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.371Z"}
+{"level":"info","message":"Relaying ICE candidate from 56FSQsqrMnoQT-EuAAAP to MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:48:30.371Z"}
+{"level":"info","message":"Client disconnected: VLgiCMb7TNq4q5krAAAR","timestamp":"2025-02-06T04:49:18.287Z"}
+{"level":"info","message":"Client disconnected: 2OpD_bYrVWOeqcxFAAA4","timestamp":"2025-02-06T04:49:18.765Z"}
+{"level":"info","message":"Client disconnected: MYBxtIsTt6TFWZywAAA6","timestamp":"2025-02-06T04:49:18.769Z"}
+{"level":"info","message":"Client disconnected: 56FSQsqrMnoQT-EuAAAP","timestamp":"2025-02-06T04:49:19.380Z"}
+{"level":"info","message":"Server running on http://localhost:3001","timestamp":"2025-02-06T08:17:02.676Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-06T08:17:02.679Z"}
+{"level":"info","message":"Client connected: pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:21:48.644Z"}
+{"level":"info","message":"Client connected: -QfUs0u-YaWfjOKnAAAD","timestamp":"2025-02-06T08:21:52.017Z"}
+{"level":"info","message":"Client connected: 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:21:55.090Z"}
+{"level":"info","message":"Client connected: 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.433Z"}
+{"level":"info","message":"Admin started streaming: 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.434Z"}
+{"level":"info","message":"Relaying offer from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.499Z"}
+{"level":"info","message":"Relaying offer from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.502Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.525Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.527Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.532Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.547Z"}
+{"level":"info","message":"Relaying answer from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.549Z"}
+{"level":"info","message":"Relaying answer from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.551Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.553Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.554Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.554Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.555Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.555Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.556Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.556Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.557Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.558Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.558Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.559Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.560Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.570Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.571Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:22:19.578Z"}
+{"level":"info","message":"Relaying ICE candidate from 5g16HWWx652Tll5oAAAH to pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:22:19.579Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.580Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.581Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.582Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.582Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.587Z"}
+{"level":"info","message":"Relaying ICE candidate from 4n539DCvqFkUoqj4AAAF to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.588Z"}
+{"level":"info","message":"Relaying ICE candidate from pQ1vHaRfLjl5l78kAAAB to 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:22:19.595Z"}
+{"level":"info","message":"Client disconnected: -QfUs0u-YaWfjOKnAAAD","timestamp":"2025-02-06T08:23:15.092Z"}
+{"level":"info","message":"Client disconnected: 4n539DCvqFkUoqj4AAAF","timestamp":"2025-02-06T08:23:15.094Z"}
+{"level":"info","message":"Client disconnected: pQ1vHaRfLjl5l78kAAAB","timestamp":"2025-02-06T08:23:16.381Z"}
+{"level":"info","message":"Client disconnected: 5g16HWWx652Tll5oAAAH","timestamp":"2025-02-06T08:23:17.114Z"}
+{"level":"info","message":"Client connected: hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:25:24.749Z"}
+{"level":"info","message":"Client connected: mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.344Z"}
+{"level":"info","message":"Admin started streaming: mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.345Z"}
+{"level":"info","message":"Relaying offer from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.363Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.377Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.379Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.380Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.380Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.381Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.382Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.383Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.383Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.406Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:26:56.407Z"}
+{"level":"info","message":"Relaying answer from mshDHO0ZkOSXNe_KAAAL to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:26:56.440Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:26:56.443Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:26:56.444Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:26:56.446Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:26:56.447Z"}
+{"level":"info","message":"Client connected: 6M53wZU7cCjzrwFYAAAN","timestamp":"2025-02-06T08:31:58.747Z"}
+{"level":"info","message":"Client connected: ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.317Z"}
+{"level":"info","message":"Relaying offer from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.395Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.406Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.408Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.409Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.409Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.410Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.410Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.410Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.411Z"}
+{"level":"info","message":"Relaying answer from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.412Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.413Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.453Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.458Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.463Z"}
+{"level":"info","message":"Relaying ICE candidate from mshDHO0ZkOSXNe_KAAAL to ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:32:00.468Z"}
+{"level":"info","message":"Relaying ICE candidate from ITVrq5cLLar2svJiAAAP to mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:32:00.470Z"}
+{"level":"info","message":"Client disconnected: mshDHO0ZkOSXNe_KAAAL","timestamp":"2025-02-06T08:33:37.563Z"}
+{"level":"info","message":"Client disconnected: 6M53wZU7cCjzrwFYAAAN","timestamp":"2025-02-06T08:36:15.019Z"}
+{"level":"info","message":"Client disconnected: ITVrq5cLLar2svJiAAAP","timestamp":"2025-02-06T08:36:15.023Z"}
+{"level":"info","message":"Client connected: 9gUtYghKWB0cQywGAAAR","timestamp":"2025-02-06T08:36:15.450Z"}
+{"level":"info","message":"Client disconnected: 9gUtYghKWB0cQywGAAAR","timestamp":"2025-02-06T08:36:18.897Z"}
+{"level":"info","message":"Client connected: AFuw4YJXdPpRgJzmAAAT","timestamp":"2025-02-06T08:36:19.367Z"}
+{"level":"info","message":"Client disconnected: AFuw4YJXdPpRgJzmAAAT","timestamp":"2025-02-06T08:36:19.731Z"}
+{"level":"info","message":"Client connected: bb05bn3ulGOu0onbAAAV","timestamp":"2025-02-06T08:36:20.148Z"}
+{"level":"info","message":"Client connected: CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:30.123Z"}
+{"level":"info","message":"Admin started streaming: CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.383Z"}
+{"level":"info","message":"Relaying offer from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.434Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.436Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.436Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.437Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.437Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.438Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.438Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.439Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.439Z"}
+{"level":"info","message":"Relaying answer from CT65t5JavwvTOspXAAAX to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:36:36.454Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:36:36.457Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:36:36.458Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:36:36.459Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:36:36.459Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:36.473Z"}
+{"level":"info","message":"Client connected: -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.319Z"}
+{"level":"info","message":"Relaying offer from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.384Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.394Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.395Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.396Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.396Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.396Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.397Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.397Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.398Z"}
+{"level":"info","message":"Relaying answer from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.405Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.412Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.412Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.413Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.413Z"}
+{"level":"info","message":"Relaying ICE candidate from -yRoOeKrbNGLTEGVAAAZ to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:36:42.439Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:36:42.444Z"}
+{"level":"info","message":"Client disconnected: bb05bn3ulGOu0onbAAAV","timestamp":"2025-02-06T08:38:03.095Z"}
+{"level":"info","message":"Client disconnected: -yRoOeKrbNGLTEGVAAAZ","timestamp":"2025-02-06T08:38:03.097Z"}
+{"level":"info","message":"Client connected: GMUSHb54VRzMjYksAAAc","timestamp":"2025-02-06T08:38:03.652Z"}
+{"level":"info","message":"Client connected: JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.376Z"}
+{"level":"info","message":"Relaying offer from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.432Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.440Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.442Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.443Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.444Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.444Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.444Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.445Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.445Z"}
+{"level":"info","message":"Relaying answer from CT65t5JavwvTOspXAAAX to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.491Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.495Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.496Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.496Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.497Z"}
+{"level":"info","message":"Relaying ICE candidate from CT65t5JavwvTOspXAAAX to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:38:08.498Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:38:08.500Z"}
+{"level":"info","message":"Client disconnected: CT65t5JavwvTOspXAAAX","timestamp":"2025-02-06T08:39:38.510Z"}
+{"level":"info","message":"Client connected: oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:39:54.742Z"}
+{"level":"info","message":"Admin started streaming: oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.557Z"}
+{"level":"info","message":"Relaying offer from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.587Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.591Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.628Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.629Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.630Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.630Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.630Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.631Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.631Z"}
+{"level":"info","message":"Relaying offer from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.632Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.632Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.632Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.633Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.633Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.634Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.637Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.637Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.638Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.639Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.640Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.641Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.642Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.642Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.655Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.657Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.659Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.661Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.664Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.667Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.668Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:40:00.669Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.678Z"}
+{"level":"info","message":"Relaying ICE candidate from hH9pr2QabxdbWxEZAAAJ to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.683Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:40:00.686Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.697Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.699Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.703Z"}
+{"level":"info","message":"Relaying ICE candidate from JrCIH0Tl_hXbZsZFAAAe to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:40:00.705Z"}
+{"level":"info","message":"Client disconnected: hH9pr2QabxdbWxEZAAAJ","timestamp":"2025-02-06T08:41:53.542Z"}
+{"level":"info","message":"Client disconnected: GMUSHb54VRzMjYksAAAc","timestamp":"2025-02-06T08:41:53.570Z"}
+{"level":"info","message":"Client disconnected: JrCIH0Tl_hXbZsZFAAAe","timestamp":"2025-02-06T08:41:53.574Z"}
+{"level":"info","message":"Client connected: xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.879Z"}
+{"level":"info","message":"Relaying offer from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.935Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.938Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.938Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.939Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.939Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.939Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.940Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.940Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.940Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.960Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.961Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.961Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.962Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:41:53.962Z"}
+{"level":"info","message":"Relaying ICE candidate from xHtZ-6fF3DCYH_hNAAAi to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:41:53.973Z"}
+{"level":"info","message":"Client disconnected: xHtZ-6fF3DCYH_hNAAAi","timestamp":"2025-02-06T08:42:04.654Z"}
+{"level":"info","message":"Client connected: sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.040Z"}
+{"level":"info","message":"Relaying offer from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.092Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.103Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.106Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.106Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.106Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.107Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.107Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.107Z"}
+{"level":"info","message":"Relaying ICE candidate from sfgoNoFPP4Y5YAXqAAAk to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:42:12.107Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.115Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.117Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.118Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.118Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:42:12.119Z"}
+{"level":"info","message":"Client connected: UEcCeX3NXBJGX9KKAAAm","timestamp":"2025-02-06T08:42:39.457Z"}
+{"level":"info","message":"Client disconnected: UEcCeX3NXBJGX9KKAAAm","timestamp":"2025-02-06T08:42:50.473Z"}
+{"level":"info","message":"Client connected: kTFfqlRafxBJe3zsAAAo","timestamp":"2025-02-06T08:42:58.895Z"}
+{"level":"info","message":"Client disconnected: kTFfqlRafxBJe3zsAAAo","timestamp":"2025-02-06T08:43:14.443Z"}
+{"level":"info","message":"Client connected: bSIILBdkc5Fvqs4jAAAq","timestamp":"2025-02-06T08:43:21.554Z"}
+{"level":"info","message":"Client connected: T2xkrsoMlsp2mh8FAAAt","timestamp":"2025-02-06T08:43:31.525Z"}
+{"level":"info","message":"Client connected: TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.526Z"}
+{"level":"info","message":"Relaying offer from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.616Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.632Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.636Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.638Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.641Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.642Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.644Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.644Z"}
+{"level":"info","message":"Relaying ICE candidate from TbnXtKXERduVU7HcAAAv to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:43:34.645Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.646Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.646Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.646Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.646Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:43:34.647Z"}
+{"level":"info","message":"Client disconnected: T2xkrsoMlsp2mh8FAAAt","timestamp":"2025-02-06T08:44:05.561Z"}
+{"level":"info","message":"Client disconnected: TbnXtKXERduVU7HcAAAv","timestamp":"2025-02-06T08:44:05.565Z"}
+{"level":"info","message":"Client disconnected: bSIILBdkc5Fvqs4jAAAq","timestamp":"2025-02-06T08:44:16.577Z"}
+{"level":"info","message":"Client connected: C2RMZOdnQmLVxqEeAAAy","timestamp":"2025-02-06T08:44:17.586Z"}
+{"level":"info","message":"Client connected: XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.136Z"}
+{"level":"info","message":"Relaying offer from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.199Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.212Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.214Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.215Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.216Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.220Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.221Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.222Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.228Z"}
+{"level":"info","message":"Relaying answer from oJx-QZQI_AM0cnB1AAAg to XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.233Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.234Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.235Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.236Z"}
+{"level":"info","message":"Relaying ICE candidate from oJx-QZQI_AM0cnB1AAAg to XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:21.236Z"}
+{"level":"info","message":"Relaying ICE candidate from XO744EkXrty3lSqDAAA0 to oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:21.289Z"}
+{"level":"info","message":"Client disconnected: C2RMZOdnQmLVxqEeAAAy","timestamp":"2025-02-06T08:44:39.355Z"}
+{"level":"info","message":"Client disconnected: XO744EkXrty3lSqDAAA0","timestamp":"2025-02-06T08:44:39.360Z"}
+{"level":"info","message":"Client disconnected: oJx-QZQI_AM0cnB1AAAg","timestamp":"2025-02-06T08:44:40.909Z"}
+{"level":"info","message":"Client disconnected: sfgoNoFPP4Y5YAXqAAAk","timestamp":"2025-02-06T08:44:42.068Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-02-08T13:25:45.923Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-08T13:25:45.925Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-02-08T15:48:09.292Z"}
+{"level":"info","message":"CORS enabled for origins: http://localhost:5173","timestamp":"2025-02-08T15:48:09.294Z"}
