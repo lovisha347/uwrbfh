@@ -10,8 +10,6 @@ import geoip from 'geoip-lite';
 import 'dotenv/config';
 
 import config from './config/config.js';
-import { setupMiddleware } from './middlewares/error.middleware.js';
-import logger from './utils/logger.js';
 import router from './routes/index.js';
 import { securityMiddleware } from './middlewares/security.js';
 import constants from './constants.js';
@@ -128,13 +126,13 @@ const startBotMessages = () => {
 };
 
 io.on('connection', (socket) => {
-  logger.info(`Client connected: ${socket.id}`);
+  console.log(`Client connected: ${socket.id}`);
 
   // Initialize rate limit for this socket
   socketRateLimit.set(socket.id, { count: 0, lastReset: Date.now() });
 
   socket.on('stream:start', () => {
-    logger.info(`Admin started streaming: ${socket.id}`);
+    console.log(`Admin started streaming: ${socket.id}`);
     streamActive = true;
     socket.join('admin-room');
     socket.to('viewer-room').emit('stream-available', { streamerId: socket.id });
@@ -183,7 +181,7 @@ io.on('connection', (socket) => {
 
   // WebRTC signaling
   socket.on('offer', ({ offer, streamerId }) => {
-    logger.info(`Relaying offer from ${socket.id} to ${streamerId}`);
+    console.log(`Relaying offer from ${socket.id} to ${streamerId}`);
     socket.to(streamerId).emit('offer', {
       offer,
       viewerId: socket.id
@@ -191,12 +189,12 @@ io.on('connection', (socket) => {
   });
 
   socket.on('answer', ({ answer, viewerId }) => {
-    logger.info(`Relaying answer from ${socket.id} to ${viewerId}`);
+    console.log(`Relaying answer from ${socket.id} to ${viewerId}`);
     socket.to(viewerId).emit('answer', { answer });
   });
 
   socket.on('ice-candidate', ({ candidate, targetId }) => {
-    logger.info(`Relaying ICE candidate from ${socket.id} to ${targetId}`);
+    console.log(`Relaying ICE candidate from ${socket.id} to ${targetId}`);
     socket.to(targetId).emit('ice-candidate', { candidate });
   });
 
@@ -228,7 +226,7 @@ io.on('connection', (socket) => {
 
       io.emit('chat:message', sanitizedMessage);
     } catch (error) {
-      logger.error('Error handling chat message:', error);
+      console.log('Error handling chat message:', error);
       socket.emit('error', { message: 'Error processing message' });
     }
   });
@@ -247,7 +245,7 @@ io.on('connection', (socket) => {
   });
 
   socket.on('disconnect', () => {
-    logger.info(`Client disconnected: ${socket.id}`);
+    console.log(`Client disconnected: ${socket.id}`);
     activeViewers.delete(socket.id);
     socketRateLimit.delete(socket.id);
     
@@ -268,23 +266,22 @@ io.on('connection', (socket) => {
 
 // Error handling
 process.on('SIGTERM', () => {
-  logger.info('SIGTERM signal received. Closing server...');
+  console.log('SIGTERM signal received. Closing server...');
   if (botInterval) {
     clearInterval(botInterval);
   }
   server.close(() => {
-    logger.info('Server closed');
+    console.log('Server closed');
     process.exit(0);
   });
 });
 
 server.on('error', (error) => {
-  logger.error('Server error:', error);
+  console.log('Server error:', error);
 });
 
 // Start server
 const PORT = process.env.PORT || 3001;
 server.listen(PORT, '0.0.0.0', () => {
-  logger.info(`Server running on http://localhost:${PORT}`);
-  logger.info(`CORS enabled for origins: ${config.CORS_ORIGINS.join(', ')}`);
+  console.log("hellooo..")
 });
