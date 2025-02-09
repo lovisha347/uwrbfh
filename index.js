@@ -7,6 +7,7 @@ import rateLimit from 'express-rate-limit';
 import xss from 'xss-clean';
 import geoip from 'geoip-lite';
 import 'dotenv/config';
+import {Server} from 'socket.io';
 
 import config from './config/config.js';
 import router from './routes/index.js';
@@ -45,7 +46,8 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 app.use(router);
 
 // Socket.IO setup with security measures
-const io = require('socket.io')(server, {
+
+const io = new Server(server, {
   path: '/socket.io/',
   cors: {
     origin: ["https://dezzy.live", "http://localhost:3000"],
