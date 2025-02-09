@@ -24,7 +24,7 @@ app.use(xss()); // Sanitize input
 app.use(cors({
   origin: config.CORS_ORIGINS,
   credentials: true,
-  methods: ['GET', 'POST'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
