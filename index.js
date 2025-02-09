@@ -18,7 +18,14 @@ const app = express();
 const server = http.createServer(app);
 
 // Security Middleware
-app.use(helmet()); // Security headers
+app.use(helmet({
+  contentSecurityPolicy: {
+    directives: {
+      defaultSrc: ["'self'"],
+      connectSrc: ["'self'", "wss://api.dezzy.live"]
+    }
+  }
+})); // Security headers
 app.use(xss()); // Sanitize input
 app.use(cors({
   origin: config.CORS_ORIGINS,
