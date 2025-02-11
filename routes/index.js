@@ -2,6 +2,7 @@
 import { Router } from 'express';
 import constantsRoutes from './api.constants.js';
 import commentsRoutes from './api.comments.js';
+import progressRoutes from './api.progess.js';
 import { authenticate, admin_login } from '../middlewares/auth/auth_login.js';
 import express from 'express';
 import { authenticateToken, verifyAdminCredentials, generateToken, requireAdmin } from '../middlewares/auth.middleware.js';
@@ -12,6 +13,7 @@ const router = Router();
 // API routes
 router.use('/api/constants', constantsRoutes);
 router.use('/api/comments', commentsRoutes);
+router.use('/api/progress', progressRoutes);
 
 // Admin routes
 router.post('/api/admin/login', (req, res) => {
