@@ -132,13 +132,15 @@ const resetRateLimit = () => {
 
 setInterval(resetRateLimit, RATE_LIMIT_WINDOW);
 
-const startBotMessages = () => {
+const startBotMessages = async () => {
   if (botInterval) {
     clearInterval(botInterval);
   }
 
-  const sendBotMessage = () => {
-    const botMessage = constants.generateBotMessage();
+  const sendBotMessage = async () => {
+    const { generateBotMessage } = await import('./constants.js?update=' + Date.now());
+    const botMessage = generateBotMessage();
+    
     chatHistory.push(botMessage);
     if (chatHistory.length > MAX_CHAT_HISTORY) {
       chatHistory.shift();
@@ -147,15 +149,13 @@ const startBotMessages = () => {
     io.emit('chat:message', botMessage);
   };
 
-  // Send first message after a short delay
   setTimeout(sendBotMessage, 2000);
-  
-  // Then send messages randomly between MIN and MAX delay
   botInterval = setInterval(() => {
     const delay = Math.floor(Math.random() * (BOT_DELAY_MAX - BOT_DELAY_MIN) + BOT_DELAY_MIN);
     setTimeout(sendBotMessage, delay);
   }, BOT_DELAY_MAX);
 };
+
 
 io.on('connection', (socket) => {
 
