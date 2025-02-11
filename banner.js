@@ -1,2 +1,2 @@
-const banner = { text: "" };  // Store banner text inside an object
+const banner = { text: "" }; 
 export default banner;

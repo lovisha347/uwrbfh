@@ -7,15 +7,23 @@ const router = express.Router();
 const constantsPath = path.resolve("constants.js");
 
 // ✅ Fetch constants
-router.get("/", (req, res) => {
-  res.json({
-    botNames: constants.botNames,
-    profilePics: constants.profilePics,
-    messageTemplates: constants.messageTemplates,
-    reactions: constants.reactions,
-    botMessages: constants.botMessages,
-  });
+// ✅ Fetch latest constants dynamically
+router.get("/", async (req, res) => {
+  try {
+    const { default: updatedConstants } = await import(`file://${constantsPath}?${Date.now()}`);
+    res.json({
+      botNames: updatedConstants.botNames,
+      profilePics: updatedConstants.profilePics,
+      messageTemplates: updatedConstants.messageTemplates,
+      reactions: updatedConstants.reactions,
+      botMessages: updatedConstants.botMessages,
+    });
+  } catch (error) {
+    console.error("Error loading constants.js:", error);
+    res.status(500).json({ error: "Failed to load constants.js" });
+  }
 });
+
 
 // ✅ Update constants and write to file
 router.post("/", (req, res) => {
