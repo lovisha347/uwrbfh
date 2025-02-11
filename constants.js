@@ -1,5 +1,5 @@
 const botNames = ["Bot1", "Bot2"];
-const profilePics = ["pic1.jpg", "pic2.jpg"];
+const profilePics = ['😺','🐶','🐯','🦁','🐭','🐞','🪲','🪰','🦟','🪳'];
 const messageTemplates = ["Hello!", "How are you?"];
 const reactions = ["😂", "❤️", "🔥"];
 const botMessages = ["Welcome to the stream!", "Enjoy!"];
