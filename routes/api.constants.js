@@ -1,29 +1,45 @@
-// routes/api.constants.js
-import express from 'express';
-import constants from '../constants.js';
+import express from "express";
+import fs from "fs";
+import path from "path";
+import constants from "../constants.js";
 
 const router = express.Router();
+const constantsPath = path.resolve("constants.js");
 
-router.get('/', (req, res) => {
-  res.json({ 
+// ✅ Fetch constants
+router.get("/", (req, res) => {
+  res.json({
     botNames: constants.botNames,
     profilePics: constants.profilePics,
     messageTemplates: constants.messageTemplates,
     reactions: constants.reactions,
-    botMessages: constants.BOT_MESSAGES
+    botMessages: constants.botMessages,
   });
 });
 
-router.post('/', (req, res) => {
+// ✅ Update constants and write to file
+router.post("/", (req, res) => {
   const { type, data } = req.body;
   const validTypes = ["botNames", "profilePics", "messageTemplates", "reactions", "botMessages"];
-  
+
   if (!validTypes.includes(type)) {
     return res.status(400).json({ message: "Invalid type" });
   }
 
+  // ✅ Update constants in memory
   constants[type] = [...data];
-  res.json({ success: true, message: `${type} updated` });
+
+  // ✅ Convert to module.exports format
+  const fileContent = `export default ${JSON.stringify(constants, null, 2)};`;
+
+  // ✅ Write the updated constants.js file
+  try {
+    fs.writeFileSync(constantsPath, fileContent, "utf8");
+    res.json({ success: true, message: `${type} updated successfully!` });
+  } catch (error) {
+    console.error("Error updating constants.js:", error);
+    res.status(500).json({ error: "Failed to update constants.js" });
+  }
 });
 
 export default router;
