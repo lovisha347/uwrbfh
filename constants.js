@@ -46,5 +46,5 @@ export default {
   reactions,
   botMessages,
   generateFakeComment,
-  generateBotMessage
+  generateBotMessage,
 };
