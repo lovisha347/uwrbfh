@@ -140,8 +140,9 @@ const startBotMessages = async () => {
   }
 
   const sendBotMessage = async () => {
-    const { generateBotMessage } = await import('./constants.js?update=' + Date.now());
-    const botMessage = generateBotMessage();
+    const botUtils = await import('./constants.js?update=' + Date.now());
+const generateBotMessage = botUtils.default.generateBotMessage;
+const botMessage = generateBotMessage();
     
     chatHistory.push(botMessage);
     if (chatHistory.length > MAX_CHAT_HISTORY) {
