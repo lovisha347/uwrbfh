@@ -2,7 +2,7 @@ const botNames = ["Crypto God", "Hodi", "Chads in", "Dianmonds hands", "Moon or 
 const profilePics = ['😺','🐶','🐯','🦁','🐭','🐞','🪲','🪰','🦟','🪳'];
 const messageTemplates = ["yo", "wait this is real", "i need a gf so bad", "ur hot", "marry me", "buying more rn", "send this to vahalla", "ma'am marry me", "I'll give you $10k if you marry me", "What's your Onlyfans?", "Why you so hot?", "wow", "Loading up", "Let's go", "yall are down bad"];
 const reactions = ["😂", "❤️", "🔥"];
-const botMessages = ["", "Enjoy!"];
+const botMessages = ["yo", "wait this is real", "i need a gf so bad", "ur hot", "marry me", "buying more rn", "send this to vahalla", "ma'am marry me", "I'll give you $10k if you marry me", "What's your Onlyfans?", "Why you so hot?", "wow", "Loading up", "Let's go", "yall are down bad"];
 
 // Helper function to generate fake comments
 const generateFakeComment = () => {
